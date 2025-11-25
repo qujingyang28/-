@@ -1,0 +1,5 @@
+{
+  "name": "JAKA Embodied AI Guide",
+  "description": "A step-by-step interactive guide for deploying LeRobot based imitation learning on JAKA robots.",
+  "requestFramePermissions": []
+}
